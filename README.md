@@ -39,8 +39,5 @@ The project includes both the SQL model files (`.mwb`) and a presentation (`.ppt
 * Professional documentation and presentation of results
 
 ## 📬 Contact
-Created by Dinesh S
-Feel free to connect for collaboration or feedback!
-
-Created by [Your Name](https://www.linkedin.com/in/yourprofile)
+Created by Dinesh S (www.linkedin.com/in/dineshdatadriven)
 Feel free to connect for collaboration or feedback!
