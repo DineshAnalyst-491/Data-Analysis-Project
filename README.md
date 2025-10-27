@@ -1,4 +1,4 @@
-# SQL Data Analysis Project (MySQL Workbench)
+# Chinook Music Album Analysis Project (MySQL Workbench)
 
 ## 📊 Overview
 
